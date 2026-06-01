@@ -1,0 +1,28 @@
+pandas
+numpy
+
+# Visualization
+plotly
+kaleido
+
+# Dashboard
+streamlit
+
+# PDF Reports
+fpdf2
+pillow
+
+# YouTube API
+google-api-python-client
+
+# NLP
+nltk
+textblob
+spacy
+
+# Machine Learning
+scikit-learn
+
+# Utilities
+python-dateutil
+tqdm
