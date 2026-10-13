@@ -26,3 +26,7 @@ scikit-learn
 # Utilities
 python-dateutil
 tqdm
+
+
+#  cd /d D:\Data-Driven-Social-Engagement-Initiative-folder\Data-Driven-Social-Engagement-Initiative
+#  streamlit run dashboard/app.py
